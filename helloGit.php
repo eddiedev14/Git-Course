@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hello Git v login";
+    echo "Hello Git v3";
 
 ?>
