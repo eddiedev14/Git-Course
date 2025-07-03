@@ -1,0 +1,1 @@
+console.log("Implementando la funcionalidad de registro")
