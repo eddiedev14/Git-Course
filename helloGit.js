@@ -1,1 +1,1 @@
-console.log("Git Course")
+console.log("Github Course")
