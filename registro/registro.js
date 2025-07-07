@@ -1,1 +1,1 @@
-console.log("Implementando la funcionalidad de registro")
+console.log("Implementando la funcionalidad de registro para practicar con push")
